@@ -10,7 +10,6 @@ dist_pkgdata_DATA = \
 	black.mvi \
 	rcpositions.xml \
 	setup.xml \
-	skin_subtitles.xml \
 	startwizard.xml \
 	freesat.t1 \
 	freesat.t2 \
